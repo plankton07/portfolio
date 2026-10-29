@@ -1,0 +1,11 @@
+D:\work\mypp2\src\AchievementSystem\bin\Debug\net8.0\AchievementSystem.deps.json
+D:\work\mypp2\src\AchievementSystem\bin\Debug\net8.0\AchievementSystem.dll
+D:\work\mypp2\src\AchievementSystem\bin\Debug\net8.0\AchievementSystem.pdb
+D:\work\mypp2\src\AchievementSystem\obj\Debug\net8.0\AchievementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\mypp2\src\AchievementSystem\obj\Debug\net8.0\AchievementSystem.AssemblyInfoInputs.cache
+D:\work\mypp2\src\AchievementSystem\obj\Debug\net8.0\AchievementSystem.AssemblyInfo.cs
+D:\work\mypp2\src\AchievementSystem\obj\Debug\net8.0\AchievementSystem.csproj.CoreCompileInputs.cache
+D:\work\mypp2\src\AchievementSystem\obj\Debug\net8.0\AchievementSystem.dll
+D:\work\mypp2\src\AchievementSystem\obj\Debug\net8.0\refint\AchievementSystem.dll
+D:\work\mypp2\src\AchievementSystem\obj\Debug\net8.0\AchievementSystem.pdb
+D:\work\mypp2\src\AchievementSystem\obj\Debug\net8.0\ref\AchievementSystem.dll

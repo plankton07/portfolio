@@ -1,0 +1,11 @@
+D:\work\mypp\src\HeroLimitBreak\bin\Debug\net8.0\HeroLimitBreak.deps.json
+D:\work\mypp\src\HeroLimitBreak\bin\Debug\net8.0\HeroLimitBreak.dll
+D:\work\mypp\src\HeroLimitBreak\bin\Debug\net8.0\HeroLimitBreak.pdb
+D:\work\mypp\src\HeroLimitBreak\obj\Debug\net8.0\HeroLimitBreak.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\mypp\src\HeroLimitBreak\obj\Debug\net8.0\HeroLimitBreak.AssemblyInfoInputs.cache
+D:\work\mypp\src\HeroLimitBreak\obj\Debug\net8.0\HeroLimitBreak.AssemblyInfo.cs
+D:\work\mypp\src\HeroLimitBreak\obj\Debug\net8.0\HeroLimitBreak.csproj.CoreCompileInputs.cache
+D:\work\mypp\src\HeroLimitBreak\obj\Debug\net8.0\HeroLimitBreak.dll
+D:\work\mypp\src\HeroLimitBreak\obj\Debug\net8.0\refint\HeroLimitBreak.dll
+D:\work\mypp\src\HeroLimitBreak\obj\Debug\net8.0\HeroLimitBreak.pdb
+D:\work\mypp\src\HeroLimitBreak\obj\Debug\net8.0\ref\HeroLimitBreak.dll
